@@ -18,9 +18,7 @@ las cuales estan verificadas por el aplicativo (W3C)
 ### NOTAS BOOTSTRAP 
 -[X] 👍 Es una pagina creada desde cero
 -[X] 👍 La pagina contiene varios aprendices anteriormente como el lateral, el carrusel y la mayoria del cuerpo
--[X] 👍 La pagina ha sido creada por varias personas
--[X] 👍 En el tema del codigo se ayudaron Oscar Paez y Sebastian Machado
--[X] 👍 En el tema del diseño trabajo Dana Ariza 
+-[X] 👍 La pagina ha sido creada por: Dana Ariza ( diseño y programacion)
 -[X] 👍 La pagina cuenta con imagenes propias de Dana Ariza
 -[X] 👍 La pagina en el tema de diseño fue utilizada el aplicativo (CSS) 
 -[X] 👍 La pagina es interactiva en el tema de las secciones para ver mas informaacion
