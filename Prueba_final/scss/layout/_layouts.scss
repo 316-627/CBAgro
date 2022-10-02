@@ -1,0 +1,13 @@
+.container{
+    max-width: 1024px;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.section{
+    padding: 4.5rem 0 1rem;
+
+    &__height{
+        height: 100vh;
+    }
+}

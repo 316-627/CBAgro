@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2? familia= Poppins:peso@400;500;600 & display=swap');
+
+:root{
+    --header-height: 3.5rem;
+    --first-color: #ccc;
+    --first-color-shape: #ccc;
+    --logo-color: #86A239;
+    --title-color:  #8A0B16;
+    --text-color:  #8A0B16;
+    --body-color:  #fff;
+    --container-color:  #fff;
+    --title-color-dark:  #8A0B16;
+    --text-color-dark:  #8A0B16;
+    --container-color-dark:  #ccc;
+    --header-color: #ccc;
+    --body-font: 'poppins', sans-serif;
+    --big-font-size: 1.5rem;
+    --normal-font-size: .938rem;
+    --small-font-size: .813rem;
+
+    @media screen and (min-width: 968px){
+        --big-font-size: 2rem;
+        --normal-font-size: 1rem;
+        --small-font-size: .875rem;
+    }
+        
+    --z-fixed: 100;
+}
