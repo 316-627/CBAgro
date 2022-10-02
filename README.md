@@ -29,4 +29,5 @@ las cuales estan verificadas por el aplicativo (W3C)
 -[X] 👍 Contiene imagenes para representar mejor las paginas 
 -[X] 👍 Validado por el aplicativo (W3C) 
 -[X] 👍 Utilizamos nuevo vocabulario de programacion para utilizar en las paginas 
+-[X] 👍 Los prototipos y demas temas de diseño se pueden encontrar en el documento (CBAgro)
 -[X] 👍 Lo anterior se encuentra en la carpeta llamada (Prueba_final)
