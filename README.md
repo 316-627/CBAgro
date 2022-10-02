@@ -9,7 +9,7 @@
     OBJETIVO: Uso de las etiquetas HTML : h3, label, fieldset, br, from, option, imput, select
     FECHA CREACION: 20 de Agosto del 2022
     VERSION: 2.0.0
-    FECHA MODIFICACION: 30/09/2022 Dana Ariza.
+    FECHA MODIFICACION: 2/10/2022 Dana Ariza.
 
 El repositorio contiene ejrcicios de diferentes manejos de las distintas versionnes de (html), (html5) y (css).
 las cuales estan verificadas por el aplicativo (W3C)
