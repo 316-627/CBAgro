@@ -29,4 +29,4 @@ las cuales estan verificadas por el aplicativo (W3C)
 -[X] 👍 Contiene imagenes para representar mejor las paginas 
 -[X] 👍 Validado por el aplicativo (W3C) 
 -[X] 👍 Utilizamos nuevo vocabulario de programacion para utilizar en las paginas 
--[X] 👍 Lo anterior se encuentra en la carpeta llamada (CBAgro)
+-[X] 👍 Lo anterior se encuentra en la carpeta llamada (Prueba_final)
